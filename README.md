@@ -15,7 +15,7 @@ Skills:  C++/java/python/HTML/CSS /JavaScript
 
 ![Profile views](https://gpvc.arturio.dev/23-24)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23-24)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23-24)](https://github.com/23-24/github-readme-stats)
 
 
 
